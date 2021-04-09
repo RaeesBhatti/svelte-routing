@@ -1,0 +1,3 @@
+<main>
+	Product page
+</main>
